@@ -1,0 +1,7 @@
+E:\studies\SLIIT\year 4\Sem 2\EAD\FuelMe\obj\Debug\net5.0\FuelMe.GeneratedMSBuildEditorConfig.editorconfig
+E:\studies\SLIIT\year 4\Sem 2\EAD\FuelMe\obj\Debug\net5.0\FuelMe.AssemblyInfoInputs.cache
+E:\studies\SLIIT\year 4\Sem 2\EAD\FuelMe\obj\Debug\net5.0\FuelMe.AssemblyInfo.cs
+E:\studies\SLIIT\year 4\Sem 2\EAD\FuelMe\obj\Debug\net5.0\FuelMe.csproj.CoreCompileInputs.cache
+E:\studies\SLIIT\year 4\Sem 2\EAD\FuelMe\obj\Debug\net5.0\FuelMe.MvcApplicationPartsAssemblyInfo.cs
+E:\studies\SLIIT\year 4\Sem 2\EAD\FuelMe\obj\Debug\net5.0\FuelMe.MvcApplicationPartsAssemblyInfo.cache
+E:\studies\SLIIT\year 4\Sem 2\EAD\FuelMe\obj\Debug\net5.0\FuelMe.csproj.AssemblyReference.cache

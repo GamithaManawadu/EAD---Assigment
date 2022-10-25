@@ -3,7 +3,6 @@ package com.example.fuel;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
-import androidx.core.widget.NestedScrollView;
 
 import android.os.Bundle;
 import android.view.View;
@@ -11,7 +10,6 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.example.fuel.helpers.InputValidation;
-import com.example.fuel.model.User;
 import com.example.fuel.sql.DatabaseHelper;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.textfield.TextInputEditText;
